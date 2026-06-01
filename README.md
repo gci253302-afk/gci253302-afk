@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**gci253302-afk/gci253302-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Hunter Elenbaas. 
 
-Here are some ideas to get you started:
+I am a high school student learning Lake Fenton High School. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning: 3D Printing 
+
+👀 I’m interested in: Coding 
+
+📫 How to reach me: hunterz.elenbaas@icloud.com
+Linkedin Profile: https://www.linkedin.com/in/hunter-elenbaas-2515403b6/
+GitHub Profile: https://github.com/gci253302-afk
+
+
+Hi, I’m Hunter. I’m a high school student at lake fenton learning Python and 3D Printing. I’m interested in web development and problem solving.
+
+<p align="center"> 
+
+  <a href="https://www.linkedin.com/in/hunter-elenbaas-2515403b6/"> 
+
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
+
+  </a> 
+
+  <br> 
+</p> 
+
+## 🛠 Technology Stack 
+
+* Python
+
+* GitHub 
